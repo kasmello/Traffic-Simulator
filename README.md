@@ -1,4 +1,4 @@
-#INSTRUCTIONS
+# INSTRUCTIONS
 
 To run a few rounds of the traffic simulator:
 
